@@ -12,6 +12,6 @@
 #include <stdlib.h>
 
 int main(void) {
-	puts("Hi I'm Sam and I'm not a bleep"); /* prints !!!Hello World!!! */
+	puts("Hi I'm Sam and I am a bleep once more"); /* prints !!!Hello World!!! */
 	return EXIT_SUCCESS;
 }
